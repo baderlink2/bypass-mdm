@@ -12,7 +12,7 @@ NC='\033[0m'
 # Display header
 echo -e "${CYAN}
 -------------------------------------------------------------
-Bypass MDM Tool by RusskovDev (russkovactivator.com)
+Bypass MDM Tool FREE by BADERLINK (t.ME/BADERLINK)
 ----------------------------------------------------------
  ${NC}"
 echo ""
