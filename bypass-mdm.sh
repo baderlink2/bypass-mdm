@@ -11,9 +11,10 @@ NC='\033[0m'
 
 # Display header
 echo -e "${CYAN}
--------------------------------------------------------------
-Bypass MDM Tool Premum T2 M1 M2 M3 by BADERLINK (t.ME/BADERLINK)
-----------------------------------------------------------
+-----------------------------------------------------------------
+💪 WELCOME TO BADERLINK MDM BYPASS ALL MODEL 2008 TO 2025 💪
+🔥 Bypass MDM Tool Premum T2 M1 M2 M3 by BADERLINK (t.ME/BADERLINK) 🔥
+------------------------------------------------------------------
  ${NC}"
 echo ""
 
